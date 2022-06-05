@@ -5,6 +5,7 @@ public class HelloGit {
         System.out.println("Hello Git!");
         System.out.println("重组1");
         System.out.println("1分支");
+        System.out.println("主干上修改为啥没报冲突");
     }
 
 
